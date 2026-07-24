@@ -1,0 +1,12 @@
+{
+  "name": "premortem",
+  "version": "1.0.0",
+  "description": "A /premortem slash command that assumes your task already failed and works backwards — 3-5 concrete failure modes grounded in your actual repo, each with the cheap check that would catch it before you start.",
+  "author": {
+    "name": "TaeyangYeon",
+    "url": "https://github.com/TaeyangYeon"
+  },
+  "repository": "https://github.com/TaeyangYeon/premortem",
+  "license": "MIT",
+  "keywords": ["premortem", "risk", "planning", "failure-modes", "slash-command"]
+}
