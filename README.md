@@ -114,7 +114,3 @@ premortem/
 │   └── premortem.md
 └── README.md
 ```
-
-## License
-
-MIT
